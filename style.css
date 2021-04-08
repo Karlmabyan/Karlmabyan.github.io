@@ -1,0 +1,47 @@
+/***** CSS *******/
+
+body{
+	font-family: 'Times New Roman', Calibri, serif;
+	font-size: 18px;
+	text-align: center; 
+	background: linear-gradient(white); /* couleur de fond en cyan vif */
+	color:black;
+}
+
+h1,h2{
+	font-weight: normal; /* taille normale */
+}
+
+h4 {
+    text-transform: uppercase; /* titre de niveau 4 en majuscule */
+    color: rgb(0,90,255); /* bleu vif */
+}
+
+p {
+    text-indent: 50px;
+    letter-spacing: 1px;
+}
+.img1{
+	width: 6.5%;
+    display: block;
+    margin-left: auto; /* marge à gauche automatique */
+    margin-right: auto; /* marge à droite automatique */ }
+
+.img2{
+	width: 30%;
+    display: block;
+    margin-left: auto; /* marge à gauche automatique */
+    margin-right: auto; /* marge à droite automatique */ }
+
+
+a {
+    text-decoration: none;
+    color: #008CBA; /* bleu brillant */
+}
+footer{
+	height: 200px;
+	padding-top: 30px;
+	text-align: center;
+	background-color: #008B8B; /* couleur de fond en gris clair */
+	border-top: 2px solid #AAA; /* bordure haute 2 pixels 
+}
